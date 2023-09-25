@@ -5,6 +5,7 @@
 */figures/* 
 */Papers/* 
 */extra/* 
+*.html
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
