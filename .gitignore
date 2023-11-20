@@ -6,6 +6,7 @@
 */Papers/* 
 */extra/* 
 *.html
+/Lecture10/notes/*
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
